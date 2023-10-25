@@ -10,8 +10,11 @@ I am a beginner Java developer <img src="https://media.giphy.com/media/WUlplcMpO
 * 🌍  I'm based in Novosibirsk
 * ✉️  You can contact me at [nikolay-seydaliev@yandex.ru](mailto:nikolay-seydaliev@yandex.ru)
 ---
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+---
 <a href="https://www.github.com/SeydalievNikolay" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SeydalievNikolay?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left">
@@ -21,6 +24,10 @@ src="https://img.shields.io/github/followers/SeydalievNikolay?logo=github&style=
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/SeydalievNikolay" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<a href="https://vk.com/detailnikolay" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+    
 ### Badges
 
 <b>My GitHub Stats</b>
