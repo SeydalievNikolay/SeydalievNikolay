@@ -1,10 +1,14 @@
 
-# Привет, меня зовут Николай!
----
-### :man_technologist: Обо мне:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikolay
+===============================================================================================================================
 
-Я начинающий Java разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с Online Университете Skypro, где я прошел годовой курс по Java разработке. После курса был промежуток в несколько месяцев месяцев, где я разрабатывал пэт- проекты для себя, а так же телеграм-ботов для друзей. В настоящий момент нахожусь в поисках работы!
+Java junior
+-----------
 
+I am a beginner Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My path to it began with Skypro Online University, where I took a year-long course in Java development. After the course, there was a gap of several months, where I developed pet projects for myself, as well as telegram bots for friends. I am currently looking for a job!
+
+* 🌍  I'm based in Novosibirsk
+* ✉️  You can contact me at [nikolay-seydaliev@yandex.ru](mailto:nikolay-seydaliev@yandex.ru)
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
