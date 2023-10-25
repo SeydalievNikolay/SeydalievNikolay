@@ -9,9 +9,6 @@ I am a beginner Java developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 * 🌍  I'm based in Novosibirsk
 * ✉️  You can contact me at [nikolay-seydaliev@yandex.ru](mailto:nikolay-seydaliev@yandex.ru)
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 ---
 <a href="https://www.github.com/SeydalievNikolay" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SeydalievNikolay?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
