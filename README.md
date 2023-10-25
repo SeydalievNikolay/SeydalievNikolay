@@ -7,6 +7,10 @@ Java junior
 
 I am a beginner Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My path to it began with Skypro Online University, where I took a year-long course in Java development. After the course, there was a gap of several months, where I developed pet projects for myself, as well as telegram bots for friends. I am currently looking for a job!
 
+<p align="center">
+ <img width="600" src="github_snake.svg" alt="snake"/>
+</p>
+
 * 🌍  I'm based in Novosibirsk
 ---
 - :mailbox:  You can contact me at : [![Telegram Badge](https://img.shields.io/badge/-Detailnikolay-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Detailnikolay) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nikolay.seydaliev@gmail.com)
