@@ -1,5 +1,5 @@
 
-Hi !<div align="center">👋</div>   My name is Nikolay
+Hi ! align="center">👋   My name is Nikolay
 ===============================================================================================================================
 
 Java junior
