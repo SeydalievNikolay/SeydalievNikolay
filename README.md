@@ -10,7 +10,7 @@ I am a beginner Java developer <img src="https://media.giphy.com/media/WUlplcMpO
 * 🌍  I'm based in Novosibirsk
 * ✉️  You can contact me at [nikolay-seydaliev@yandex.ru](mailto:nikolay-seydaliev@yandex.ru)
 ---
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Detailnikolay-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Detailnikolay) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nikolay-seydaliev@yandex.ru)
 ---
 <a href="https://www.github.com/SeydalievNikolay" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SeydalievNikolay?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
