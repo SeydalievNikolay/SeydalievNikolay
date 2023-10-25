@@ -11,8 +11,6 @@ I am a beginner Java developer <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 - :mailbox:  You can contact me at : [![Telegram Badge](https://img.shields.io/badge/-Detailnikolay-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Detailnikolay) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nikolay.seydaliev@gmail.com)
 ---
-<a href="https://www.github.com/SeydalievNikolay" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SeydalievNikolay?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
