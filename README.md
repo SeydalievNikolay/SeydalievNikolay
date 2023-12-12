@@ -2,7 +2,7 @@
 Hi !👋 My name is Nikolay
 ===============================================================================================================================
 
-Java junior
+Java Developer
 -----------
 
 I am a Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My path to it began with Skypro Online University, where I took a year-long course in Java development. After the course, there was a gap of several months, where I developed pet projects for myself, as well as telegram bots for friends. I am currently looking for a job!
